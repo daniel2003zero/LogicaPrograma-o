@@ -1,0 +1,45 @@
+C:\Users\Hoelber Gonçalves\Downloads\TRABALHO-SISTEMA-DE-RH-main\TRABALHO-SISTEMA-DE-RH-main\iRh\iRh.Windows\obj\Debug\iRh.Windows.csproj.AssemblyReference.cache
+C:\Users\Hoelber Gonçalves\Downloads\TRABALHO-SISTEMA-DE-RH-main\TRABALHO-SISTEMA-DE-RH-main\iRh\iRh.Windows\obj\Debug\iRh.Windows.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hoelber Gonçalves\Downloads\TRABALHO-SISTEMA-DE-RH-main\TRABALHO-SISTEMA-DE-RH-main\iRh\iRh.Windows\obj\Debug\iRh.Windows.Cadastros.frmFuncionario.resources
+C:\Users\Hoelber Gonçalves\Downloads\TRABALHO-SISTEMA-DE-RH-main\TRABALHO-SISTEMA-DE-RH-main\iRh\iRh.Windows\obj\Debug\iRh.Windows.PrincipalMdi.resources
+C:\Users\Hoelber Gonçalves\Downloads\TRABALHO-SISTEMA-DE-RH-main\TRABALHO-SISTEMA-DE-RH-main\iRh\iRh.Windows\obj\Debug\iRh.Windows.Properties.Resources.resources
+C:\Users\Hoelber Gonçalves\Downloads\TRABALHO-SISTEMA-DE-RH-main\TRABALHO-SISTEMA-DE-RH-main\iRh\iRh.Windows\obj\Debug\iRh.Windows.Simuladores.frmBeneficioAdicionalNoturno.resources
+C:\Users\Hoelber Gonçalves\Downloads\TRABALHO-SISTEMA-DE-RH-main\TRABALHO-SISTEMA-DE-RH-main\iRh\iRh.Windows\obj\Debug\iRh.Windows.Simuladores.frmBeneficioFerias.resources
+C:\Users\Hoelber Gonçalves\Downloads\TRABALHO-SISTEMA-DE-RH-main\TRABALHO-SISTEMA-DE-RH-main\iRh\iRh.Windows\obj\Debug\iRh.Windows.Simuladores.frmBeneficioFgts.resources
+C:\Users\Hoelber Gonçalves\Downloads\TRABALHO-SISTEMA-DE-RH-main\TRABALHO-SISTEMA-DE-RH-main\iRh\iRh.Windows\obj\Debug\iRh.Windows.Simuladores.frmBeneficioHoraExtra.resources
+C:\Users\Hoelber Gonçalves\Downloads\TRABALHO-SISTEMA-DE-RH-main\TRABALHO-SISTEMA-DE-RH-main\iRh\iRh.Windows\obj\Debug\iRh.Windows.Simuladores.frmBeneficioPericulosidade.resources
+C:\Users\Hoelber Gonçalves\Downloads\TRABALHO-SISTEMA-DE-RH-main\TRABALHO-SISTEMA-DE-RH-main\iRh\iRh.Windows\obj\Debug\iRh.Windows.Simuladores.frmBeneficioPis.resources
+C:\Users\Hoelber Gonçalves\Downloads\TRABALHO-SISTEMA-DE-RH-main\TRABALHO-SISTEMA-DE-RH-main\iRh\iRh.Windows\obj\Debug\iRh.Windows.Simuladores.frmBeneficioSeguroDesemprego.resources
+C:\Users\Hoelber Gonçalves\Downloads\TRABALHO-SISTEMA-DE-RH-main\TRABALHO-SISTEMA-DE-RH-main\iRh\iRh.Windows\obj\Debug\iRh.Windows.Simuladores.frmBeneficioValeTransporte.resources
+C:\Users\Hoelber Gonçalves\Downloads\TRABALHO-SISTEMA-DE-RH-main\TRABALHO-SISTEMA-DE-RH-main\iRh\iRh.Windows\obj\Debug\iRh.Windows.Simuladores.frmDescontoInss.resources
+C:\Users\Hoelber Gonçalves\Downloads\TRABALHO-SISTEMA-DE-RH-main\TRABALHO-SISTEMA-DE-RH-main\iRh\iRh.Windows\obj\Debug\iRh.Windows.Simuladores.frmDescontoIrrf.resources
+C:\Users\Hoelber Gonçalves\Downloads\TRABALHO-SISTEMA-DE-RH-main\TRABALHO-SISTEMA-DE-RH-main\iRh\iRh.Windows\obj\Debug\iRh.Windows.Simuladores.frmSimulacaoCompleta.resources
+C:\Users\Hoelber Gonçalves\Downloads\TRABALHO-SISTEMA-DE-RH-main\TRABALHO-SISTEMA-DE-RH-main\iRh\iRh.Windows\obj\Debug\iRh.Windows.csproj.GenerateResource.cache
+C:\Users\Hoelber Gonçalves\Downloads\TRABALHO-SISTEMA-DE-RH-main\TRABALHO-SISTEMA-DE-RH-main\iRh\iRh.Windows\obj\Debug\iRh.Windows.csproj.CoreCompileInputs.cache
+C:\Users\Hoelber Gonçalves\Downloads\TRABALHO-SISTEMA-DE-RH-main\TRABALHO-SISTEMA-DE-RH-main\iRh\iRh.Windows\bin\Debug\iRh.Windows.exe.config
+C:\Users\Hoelber Gonçalves\Downloads\TRABALHO-SISTEMA-DE-RH-main\TRABALHO-SISTEMA-DE-RH-main\iRh\iRh.Windows\bin\Debug\iRh.Windows.exe
+C:\Users\Hoelber Gonçalves\Downloads\TRABALHO-SISTEMA-DE-RH-main\TRABALHO-SISTEMA-DE-RH-main\iRh\iRh.Windows\bin\Debug\iRh.Windows.pdb
+C:\Users\Hoelber Gonçalves\Downloads\TRABALHO-SISTEMA-DE-RH-main\TRABALHO-SISTEMA-DE-RH-main\iRh\iRh.Windows\obj\Debug\iRh.Windows.exe
+C:\Users\Hoelber Gonçalves\Downloads\TRABALHO-SISTEMA-DE-RH-main\TRABALHO-SISTEMA-DE-RH-main\iRh\iRh.Windows\obj\Debug\iRh.Windows.pdb
+C:\Users\Hoelber Gonçalves\Documents\Trablaho Daniel\TRABALHO-SISTEMA-DE-RH-main\iRh\iRh.Windows\bin\Debug\iRh.Windows.exe.config
+C:\Users\Hoelber Gonçalves\Documents\Trablaho Daniel\TRABALHO-SISTEMA-DE-RH-main\iRh\iRh.Windows\bin\Debug\iRh.Windows.exe
+C:\Users\Hoelber Gonçalves\Documents\Trablaho Daniel\TRABALHO-SISTEMA-DE-RH-main\iRh\iRh.Windows\bin\Debug\iRh.Windows.pdb
+C:\Users\Hoelber Gonçalves\Documents\Trablaho Daniel\TRABALHO-SISTEMA-DE-RH-main\iRh\iRh.Windows\obj\Debug\iRh.Windows.csproj.AssemblyReference.cache
+C:\Users\Hoelber Gonçalves\Documents\Trablaho Daniel\TRABALHO-SISTEMA-DE-RH-main\iRh\iRh.Windows\obj\Debug\iRh.Windows.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hoelber Gonçalves\Documents\Trablaho Daniel\TRABALHO-SISTEMA-DE-RH-main\iRh\iRh.Windows\obj\Debug\iRh.Windows.Cadastros.frmFuncionario.resources
+C:\Users\Hoelber Gonçalves\Documents\Trablaho Daniel\TRABALHO-SISTEMA-DE-RH-main\iRh\iRh.Windows\obj\Debug\iRh.Windows.PrincipalMdi.resources
+C:\Users\Hoelber Gonçalves\Documents\Trablaho Daniel\TRABALHO-SISTEMA-DE-RH-main\iRh\iRh.Windows\obj\Debug\iRh.Windows.Properties.Resources.resources
+C:\Users\Hoelber Gonçalves\Documents\Trablaho Daniel\TRABALHO-SISTEMA-DE-RH-main\iRh\iRh.Windows\obj\Debug\iRh.Windows.Simuladores.frmBeneficioAdicionalNoturno.resources
+C:\Users\Hoelber Gonçalves\Documents\Trablaho Daniel\TRABALHO-SISTEMA-DE-RH-main\iRh\iRh.Windows\obj\Debug\iRh.Windows.Simuladores.frmBeneficioFerias.resources
+C:\Users\Hoelber Gonçalves\Documents\Trablaho Daniel\TRABALHO-SISTEMA-DE-RH-main\iRh\iRh.Windows\obj\Debug\iRh.Windows.Simuladores.frmBeneficioFgts.resources
+C:\Users\Hoelber Gonçalves\Documents\Trablaho Daniel\TRABALHO-SISTEMA-DE-RH-main\iRh\iRh.Windows\obj\Debug\iRh.Windows.Simuladores.frmBeneficioHoraExtra.resources
+C:\Users\Hoelber Gonçalves\Documents\Trablaho Daniel\TRABALHO-SISTEMA-DE-RH-main\iRh\iRh.Windows\obj\Debug\iRh.Windows.Simuladores.frmBeneficioPericulosidade.resources
+C:\Users\Hoelber Gonçalves\Documents\Trablaho Daniel\TRABALHO-SISTEMA-DE-RH-main\iRh\iRh.Windows\obj\Debug\iRh.Windows.Simuladores.frmBeneficioPis.resources
+C:\Users\Hoelber Gonçalves\Documents\Trablaho Daniel\TRABALHO-SISTEMA-DE-RH-main\iRh\iRh.Windows\obj\Debug\iRh.Windows.Simuladores.frmBeneficioSeguroDesemprego.resources
+C:\Users\Hoelber Gonçalves\Documents\Trablaho Daniel\TRABALHO-SISTEMA-DE-RH-main\iRh\iRh.Windows\obj\Debug\iRh.Windows.Simuladores.frmBeneficioValeTransporte.resources
+C:\Users\Hoelber Gonçalves\Documents\Trablaho Daniel\TRABALHO-SISTEMA-DE-RH-main\iRh\iRh.Windows\obj\Debug\iRh.Windows.Simuladores.frmDescontoInss.resources
+C:\Users\Hoelber Gonçalves\Documents\Trablaho Daniel\TRABALHO-SISTEMA-DE-RH-main\iRh\iRh.Windows\obj\Debug\iRh.Windows.Simuladores.frmDescontoIrrf.resources
+C:\Users\Hoelber Gonçalves\Documents\Trablaho Daniel\TRABALHO-SISTEMA-DE-RH-main\iRh\iRh.Windows\obj\Debug\iRh.Windows.csproj.GenerateResource.cache
+C:\Users\Hoelber Gonçalves\Documents\Trablaho Daniel\TRABALHO-SISTEMA-DE-RH-main\iRh\iRh.Windows\obj\Debug\iRh.Windows.csproj.CoreCompileInputs.cache
+C:\Users\Hoelber Gonçalves\Documents\Trablaho Daniel\TRABALHO-SISTEMA-DE-RH-main\iRh\iRh.Windows\obj\Debug\iRh.Windows.exe
+C:\Users\Hoelber Gonçalves\Documents\Trablaho Daniel\TRABALHO-SISTEMA-DE-RH-main\iRh\iRh.Windows\obj\Debug\iRh.Windows.pdb
